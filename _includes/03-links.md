@@ -1,1 +1,1 @@
-[my twitter] (https://twitter.com/alicembridgman)
+[my twitter](https://twitter.com/alicembridgman)
